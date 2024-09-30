@@ -96,6 +96,13 @@
 			<version>2.4</version>
 		</dependency>
 
+		<!-- Mensageria -->
+		<dependency>
+			<groupId>org.apache.activemq</groupId>
+			<artifactId>activemq-camel</artifactId>
+			<version>5.16.7</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
